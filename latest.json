@@ -1,11 +1,11 @@
 {
-  "version": "2.7.0",
+  "version": "2.7.1",
   "date": "2026-11-22",
-  "zip": "https://raw.githubusercontent.com/tanmoy108/all-in-one-updates/main/releases/All-In-One_2.7.0.zip",
-  "sha256": "81f329c52a08b0dd2ccd299e4ba29f80daa82b1b36ec75c96d63f265deeb2d12",
-  "size": 457823,
+  "zip": "https://raw.githubusercontent.com/tanmoy108/all-in-one-updates/main/releases/All-In-One_2.7.1.zip",
+  "sha256": "a09df4c19e875e38c8fd996c42db950789b272ca1a84c9f9aca82c224ce231af",
+  "size": 459536,
   "notes": {
-    "bn": "অটো আপডেট যোগ হয়েছে — এখন থেকে নতুন ভার্সন এলে প্যানেলেই আপডেট বাটন আসবে।",
-    "en": "Auto update added — new versions now install from inside the panel."
+    "bn": "প্রজেক্ট লাইব্রেরি এখন Google Drive-এ রাখা যায় — Projects ▸ ☁ লাইব্রেরি ফোল্ডার। সব PC-তে একই ফোল্ডার বাছলে একই লাইব্রেরি দেখাবে।",
+    "en": "Project library can now live in Google Drive — Projects ▸ ☁ Library folder. Pick the same folder on every PC to share one library."
   }
 }
