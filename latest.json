@@ -1,0 +1,11 @@
+{
+  "version": "2.7.0",
+  "date": "2026-11-22",
+  "zip": "https://raw.githubusercontent.com/tanmoy108/all-in-one-updates/main/releases/All-In-One_2.7.0.zip",
+  "sha256": "81f329c52a08b0dd2ccd299e4ba29f80daa82b1b36ec75c96d63f265deeb2d12",
+  "size": 457823,
+  "notes": {
+    "bn": "অটো আপডেট যোগ হয়েছে — এখন থেকে নতুন ভার্সন এলে প্যানেলেই আপডেট বাটন আসবে।",
+    "en": "Auto update added — new versions now install from inside the panel."
+  }
+}
