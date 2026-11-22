@@ -1,11 +1,11 @@
 {
-  "version": "2.8.0",
-  "date": "2026-11-22",
-  "zip": "https://raw.githubusercontent.com/tanmoy108/all-in-one-updates/main/releases/All-In-One_2.8.0.zip",
-  "sha256": "57da46f2026da95759f1aedfbf56721e72eb2c6d8dfe34b18d30ad1c3b740317",
-  "size": 466362,
+  "version": "2.9.0",
+  "date": "2026-11-23",
+  "zip": "https://raw.githubusercontent.com/tanmoy108/all-in-one-updates/main/releases/All-In-One_2.9.0.zip",
+  "sha256": "44ec835ac53802c218cdf8eaa5cff0db9a8ea868e1cd169b8c7e436f3575b653",
+  "size": 472526,
   "notes": {
-    "bn": "নতুন: মোশন ট্যাবে লাইট ওভারলে (৮টা রং + নিজের রং) আর ক্যামেরা FX (বামে/ডানে/উপরে/নিচে/জুম, হুইপ ট্রানজিশন, কাঁপুনি)।",
-    "en": "New: Light overlays (8 colors + custom) and Camera FX (pan, zoom, whip transition, handheld shake) in the Motion tab."
+    "bn": "নতুন: মোশন ট্যাবে ট্রানজিশন লাইব্রেরি — যেকোনো ট্রানজিশন লেয়ার (ইফেক্ট + কিফ্রেম) এক ক্লিকে সেভ, অন্য প্রজেক্টে কাট পয়েন্টে এক ক্লিকে বসান। Google Drive লাইব্রেরিতে থাকলে সব PC-তে পাবেন। (2.8.1-এর ঠিক করা সমস্যাও এতে আছে।)",
+    "en": "New: Transition library in the Motion tab — save any transition layer (effects + keyframes) and drop it on the cut in any project. Includes the 2.8.1 fix."
   }
 }
