@@ -1,11 +1,11 @@
 {
-  "version": "2.9.0",
-  "date": "2026-11-23",
-  "zip": "https://raw.githubusercontent.com/tanmoy108/all-in-one-updates/main/releases/All-In-One_2.9.0.zip",
-  "sha256": "44ec835ac53802c218cdf8eaa5cff0db9a8ea868e1cd169b8c7e436f3575b653",
-  "size": 472526,
+  "version": "2.9.1",
+  "date": "2026-11-24",
+  "zip": "https://raw.githubusercontent.com/tanmoy108/all-in-one-updates/main/releases/All-In-One_2.9.1.zip",
+  "sha256": "f1dcb85622880d8aa7eb4763715030384e26fbea324c6ec3bc57dedb199444ca",
+  "size": 472855,
   "notes": {
-    "bn": "নতুন: মোশন ট্যাবে ট্রানজিশন লাইব্রেরি — যেকোনো ট্রানজিশন লেয়ার (ইফেক্ট + কিফ্রেম) এক ক্লিকে সেভ, অন্য প্রজেক্টে কাট পয়েন্টে এক ক্লিকে বসান। Google Drive লাইব্রেরিতে থাকলে সব PC-তে পাবেন। (2.8.1-এর ঠিক করা সমস্যাও এতে আছে।)",
-    "en": "New: Transition library in the Motion tab — save any transition layer (effects + keyframes) and drop it on the cut in any project. Includes the 2.8.1 fix."
+    "bn": "নতুন: প্রজেক্ট লাইব্রেরিতে 'লেয়ার + কন্ট্রোল' — টেমপ্লেটের সব লেয়ার (CONTROLS লেয়ার আর তার এক্সপ্রেশন সহ) হুবহু চালু কম্পে বসে। ক্যামেরা FX বাদ দেওয়া হয়েছে।",
+    "en": "New: 'Layers + controls' import mode — copies every template layer (CONTROLS layer and its expressions) into the active comp. Camera FX removed."
   }
 }
